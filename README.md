@@ -24,17 +24,17 @@ Out of those, 3 characteristics are identified as main driver of a car's price:
 
 To understand the effects of those variables better, we will share findings in subsequent sections.
 
-## Age vs. Price
+## Age
 Following plot summarizes how age affects a cars price.
 <img src="images/age_vs_price.png" alt="fig1">
 
 As the car ages, it's price rapidly depreciates up until 20 years. However, beyond 20 years, it tends to increase, as it may be becoming a classic/vintage.
 
-## Cylinders vs. Price
+## Number of Cylinders
 8 and 6 cylinder cars tend to have a higher price than lower number of cylinders
 <img src="images/cyl_vs_price.png" alt="fig1">
 
-## Odometer
+## Miles on Odometer
 As the miles on the otometer increases, the price of the car drops for the majority of observed car sales.
 <img src="images/odo_vs_price.png" alt="fig1">
 
