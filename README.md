@@ -6,7 +6,8 @@ We also will provide information about sales volumes in each category, so that, 
 # What Drives Price of a Car?
 By using advanced techniques, we analyzed 13 characteristics of cars that were sold in 2022. These characteristics are as follows:
 - number of cylinders
-- condition, manufacturer
+- condition
+- manufacturer
 - model
 - fuel type
 - title status
