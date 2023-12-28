@@ -18,7 +18,7 @@ By using advanced techniques, we analyzed 13 characteristics of cars that were s
 - odometer
 - age
 
-Out of those, 3 characteristics are identified as main driver of a car's price:
+Out of those, 3 characteristics are identified as main driver of a car's price (most relevant to the least):
 - age
 - cylinders
 - odometer
